@@ -1,0 +1,24 @@
+{
+  "name": "blastserver",
+  "description": "Optional Server frontend file for  minimal display of the  blas details",
+  "main": "",
+  "authors": [
+    "Sahil Shetye"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "Blast",
+    "Lanzatech",
+    "Server",
+    "REST"
+  ],
+  "homepage": "http://www.sahilshetye.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
