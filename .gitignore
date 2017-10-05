@@ -63,3 +63,4 @@ typings/
 .idea/workspace.xml
 public/images/
 public/javascripts/
+/node_modules/
