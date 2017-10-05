@@ -60,3 +60,6 @@ typings/
 .env
 
 
+.idea/workspace.xml
+public/images/
+public/javascripts/
